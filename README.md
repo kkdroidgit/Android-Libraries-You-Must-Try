@@ -1,5 +1,17 @@
 # Android-Libraries-You-Must-Try
-The list contains a list of best Android Libraries that you should not miss. 
+The list contains some of the best Android Libraries that you should not miss. 
+
+## [Gson](https://github.com/google/gson)
+
+GSON is a Java serialization/deserialization library to convert Java Objects into JSON and back
+It can be used to convert Java Objects into their JSON representation. It can also be used to convert a JSON string to an equivalent Java object. Gson can work with arbitrary Java objects including pre-existing objects that you do not have source-code of.
+
+### Tutorials
+
+- [Vogella Gson Tutorials](http://www.vogella.com/tutorials/JavaLibrary-Gson/article.html)
+- [Getting Started with Gson](https://futurestud.io/tutorials/gson-getting-started-with-java-json-serialization-deserialization)
+- [JSON with GSON](https://medium.com/quick-code/parsing-json-on-android-using-gson-and-volley-83d6715776f8)
+- [StackOverflow Posts](https://stackoverflow.com/search?q=Gson)
 
 ## [EventBus](http://greenrobot.org/eventbus/)
 
