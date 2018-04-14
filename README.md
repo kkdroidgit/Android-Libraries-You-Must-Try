@@ -47,7 +47,7 @@ Retrofit makes it super easy to parse JSON response which is otherwise pretty co
 
 ### Tutorials
 
-- [Getting Started with Glide](https://futurestud.io/tutorials/glide-getting-started)
+- [Getting Started with Retrofit](https://code.tutsplus.com/tutorials/getting-started-with-retrofit-2--cms-27792)
 - [Introduction to Retrofit](http://www.baeldung.com/retrofit)
 - [Retrofit - Creating an Android Client](https://futurestud.io/tutorials/retrofit-getting-started-and-android-client)
 - [StackOverflow Posts](https://stackoverflow.com/search?q=Retrofit)
