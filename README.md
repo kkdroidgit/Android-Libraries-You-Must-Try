@@ -53,4 +53,23 @@ Retrofit makes it super easy to parse JSON response which is otherwise pretty co
 - [StackOverflow Posts](https://stackoverflow.com/search?q=Retrofit)
 
 
+## [TapTargetView](https://github.com/KeepSafe/TapTargetView)
+
+An implementation of tap targets from the Material Design guidelines for feature discovery
+
+A feature discovery prompt focuses user attention on a specific UI element. It contains a tap target, indicated by a circular shape, which is surrounded by a larger area with a distinct background color.
+
+The prompt contains a single action, without additional actions present. Users may dismiss the prompt by using a swipe gesture or tapping outside of the prompt’s background area.
+
+
+### Tutorials
+
+- [Getting Started](https://github.com/KeepSafe/TapTargetView)
+- [Material Design Guidelines on Feature Discovery](https://material.io/guidelines/growth-communications/feature-discovery.html#feature-discovery-design)
+- [Sample Intro Using TapTargetView](https://www.youtube.com/watch?v=kuKEvrJFM6o)
+
+
+
+
+
 
